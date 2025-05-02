@@ -1,10 +1,8 @@
 ## Hi 👋
 
-:high_brightness:  personal [website](https://xxou.github.io/).
+:mortar_board: I'm Xiaxian. This is my personal [website](https://xxou.github.io/). I will be an incoming Biostatistics PhD student at Emory University starting Fall 2025. 
 
-:mortar_board: incoming Fall 2025 Biostatistics PhD student at Emory University.
-
-:seedling: current interests: causal inference, causal mediation analysis, and applications in health disparities.
+:hatching_chick: Current interests: causal inference, causal mediation analysis, and applications in health disparities.
 
 ## Research
 

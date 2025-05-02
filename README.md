@@ -9,7 +9,7 @@
 **Causal path-specific analysis**
 
 - Assessing Racial Disparities in Healthcare Expenditures: :pencil: [paper](https://www.arxiv.org/abs/2504.21688) , :closed_lock_with_key: [codes](https://github.com/xxou/Racial-Disparities-Healthcare-Expenditures)
-- R package with flexible settings: :balloon: [package](https://github.com/xxou/flexPaths)
+- *flexPaths*:  R package with flexible settings :balloon: [package](https://github.com/xxou/flexPaths)
 
 <!--
 **xxou/xxou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -6,7 +6,7 @@
 
 ## Research
 
-**Causal path-specific analysis**
+**Causal path-specific effect analysis**
 
 - Assessing Racial Disparities in Healthcare Expenditures: :pencil: [paper](https://www.arxiv.org/abs/2504.21688) , :closed_lock_with_key: [codes](https://github.com/xxou/Racial-Disparities-Healthcare-Expenditures)
 - *flexPaths*:  R package with flexible settings :balloon: [package](https://github.com/xxou/flexPaths)

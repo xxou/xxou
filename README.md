@@ -1,6 +1,6 @@
 ## Hi 👋
 
-:mortar_board: I'm Xiaxian. This is my personal [website](https://xxou.github.io/). I am a first-year PhD student in Biostatistics at Emory University.
+:mortar_board: I'm Xiaxian. This is my personal [website](https://xxou.github.io/). I am a second-year PhD student in Biostatistics at Emory University.
 
 :hatching_chick: Current interests: causal inference, causal mediation analysis, and applications in health disparities.
 
